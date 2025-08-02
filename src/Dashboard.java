@@ -65,7 +65,6 @@ public class Dashboard extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Aplikasi Rental Mobil");
         setExtendedState(MAXIMIZED_BOTH);
-        setPreferredSize(new java.awt.Dimension(1280, 720));
         setResizable(false);
         addComponentListener(new java.awt.event.ComponentAdapter() {
             public void componentResized(java.awt.event.ComponentEvent evt) {

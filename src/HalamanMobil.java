@@ -151,7 +151,7 @@ public class HalamanMobil extends javax.swing.JPanel {
         jLabel4.setText("Tipe Mobil");
         jPanel4.add(jLabel4);
 
-        cmbTipeMobil.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Sedan", "Sport", "Offroad", "MPV (Multi-Purpose Vehicle)", "Pick Up Truck / Double Cabin" }));
+        cmbTipeMobil.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Sedan", "Sport", "Offroad", "MPV (Multi-Purpose Vehicle)", "Pick Up Truck / Double Cabin", "Hatchback" }));
         jPanel4.add(cmbTipeMobil);
 
         jLabel5.setHorizontalAlignment(javax.swing.SwingConstants.TRAILING);
